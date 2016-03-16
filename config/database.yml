@@ -10,7 +10,7 @@ default: &default
 
 development:
   <<: *default
-  adapter: sqlite3
+  adapter: mysql2
   database: db/development.sqlite3
 
 # Warning: The database defined as "test" will be erased and
@@ -18,11 +18,17 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  adapter: sqlite3
+  adapter: mysql2
   database: db/test.sqlite3
-
+#
+#production:
+#  <<: *default
+#  encoding: unicode
+#  adapter: mysql2
+#  database: db/production
 production:
   <<: *default
-  encoding: unicode
-  adapter: mysql2
-  database: db/production
+  adapter: pg
+  database: my_production
+  username: JetSetGo
+  password: <%#= ENV['JETSETGO_DATABASE_PASSWORD'] %>
