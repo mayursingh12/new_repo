@@ -7,11 +7,15 @@
 default: &default
   pool: 5
   timeout: 5000
+  encoding: utf8
+  username: root
+  password:
+  host: localhost
 
 development:
   <<: *default
   adapter: mysql2
-  database: db/development.sqlite3
+  database: heroku_app_blog
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -19,7 +23,7 @@ development:
 test:
   <<: *default
   adapter: mysql2
-  database: db/test.sqlite3
+  database: heroku_test_blog
 #
 #production:
 #  <<: *default
@@ -28,7 +32,8 @@ test:
 #  database: db/production
 production:
   <<: *default
-  adapter: pg
-  database: my_production
-  username: JetSetGo
-  password: <%#= ENV['JETSETGO_DATABASE_PASSWORD'] %>
+  adapter: mysql2
+  host: 'ec2-107-20-153-141.compute-1.amazonaws.com'
+  database: 'dclg5oimg03o09'
+  username: 'lqpxudwtgjbckv'
+  password: 'sBb3naxBWXQ5bJzF1fe9WYR0F8'

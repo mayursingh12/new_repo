@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - @localhost" uuid="e082f0e6-4a33-4461-8cce-fc0bfd9f8b15">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>heroku_test_blog.*</schema-pattern>
+      <default-schemas>heroku_test_blog.*</default-schemas>
+    </data-source>
+  </component>
+</project>
