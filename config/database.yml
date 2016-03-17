@@ -5,12 +5,12 @@
 #   gem 'sqlite3'
 #
 default: &default
-  pool: 5
-  timeout: 5000
   encoding: utf8
   username: root
   password:
   host: localhost
+  pool: 5
+  timeout: 5000
 
 development:
   <<: *default
@@ -32,7 +32,8 @@ test:
 #  database: db/production
 production:
   <<: *default
-  adapter: mysql2
+  adapter: postgresql
+  encoding: unicode
   host: 'ec2-107-20-153-141.compute-1.amazonaws.com'
   database: 'dclg5oimg03o09'
   username: 'lqpxudwtgjbckv'
