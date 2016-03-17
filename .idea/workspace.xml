@@ -1,7 +1,395 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d6533a-d640-49f8-9d6d-0747fc7c6309" name="Default" comment="" />
+    <list default="true" id="35d6533a-d640-49f8-9d6d-0747fc7c6309" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-ab538154bf6475312db4f589adacd967.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/Simple-Line-Icons-293d041046ae36a631b58b1ed36ec9ed935bcf74ed98adf07545eb8d54a33322.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/Simple-Line-Icons-293d041046ae36a631b58b1ed36ec9ed935bcf74ed98adf07545eb8d54a33322.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/Simple-Line-Icons-357af00e9f4081d40ba58b92be04ca240a1ce6dee7f8b83461f0922a56e8c4b7.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/Simple-Line-Icons-5ff14e28be3a5e0841d37b9a2685f64dc2c0d10ca242ff0a91707424e495107a.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/Simple-Line-Icons-f6f562666a73dd0b908ca0a1b522473a5b4f1bc25caa3aa9be09c9f114abdfa2.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/Simple-Line-Icons.dev-ffb21c774358fd64880026a50cba77d9d78ae97ee7a2159242e3f481b0056b56.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/Simple-Line-Icons.dev-ffb21c774358fd64880026a50cba77d9d78ae97ee7a2159242e3f481b0056b56.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-567c60b615d5a6e9df6afc4136e6d65700f8b422df9e8c713e14e17db5babf8e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-567c60b615d5a6e9df6afc4136e6d65700f8b422df9e8c713e14e17db5babf8e.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-988dcd479f7ac62faeb618dc3e158a1e2f6a62bb0d17210500f20cd02375dc07.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-988dcd479f7ac62faeb618dc3e158a1e2f6a62bb0d17210500f20cd02375dc07.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b71cff4f23c5963b3e8ebabb226bcd408c7e6a038ecb9eacb327678861132e0a.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b71cff4f23c5963b3e8ebabb226bcd408c7e6a038ecb9eacb327678861132e0a.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/banners/adds-5c87f39b86d883a227914d7607c228c8512c37c77d4d26b2892241491eb5871c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/1-962ad3bfa0912e890c6c2f86b24f1bc878b22d983057b56449f45e5d3c78274c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/11-e5225827c3d18fa344459617851150f857812809f000557218ad32b0d086e3c4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/13-3d17231b39a0fb4cf27cdf8c1bc370bb5703587b202b001fa41fb6f427229a70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/14-c6c34a2ee63dbefdfacc4f3a4029f85f660c6cfc627eb95cf64c7e76deb491b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/15-56e908df557a773ba094cd7b6cbc5532de4ba77643bb2baec0c850a083b38e5c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/16-1cddbfc163fca97024e922a89f0d0b509da644b97c032dafbd98de1700b01ac1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/17-06fc19abcda194847e29deae9e6d75da4a51e37292fb47cd8932d668ff7e9184.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/18-6463f70be7ccdd95a57fb70255b5e3f3bdf3f55bf41e7314d4cec4d2ee43a755.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/19-ae6aa574192bcadbf11fcd4118889ae30384c119444e0118584138a0dd9b7283.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/2-31f34ad2d6c30e5d85724edf1484c4694488b03e2fa19c0b55fe98541f75e262.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/25-58d40766c5deeb5c41b534a6e57e23e0663c04adb78c09cd027161d17d45ac33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/3-06fc19abcda194847e29deae9e6d75da4a51e37292fb47cd8932d668ff7e9184.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/7-e070102b6fe5ae8eef9cad1606a1cc9600e0623fd6a7c6f7697fb5c90e80de53.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/8-e4ab335a55735531229ddc60589bd01d70e39da2dc1061f3732e92a91067f891.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/bg/9-b0599d383fb947662c96889a6e78ea78bbbabae6d639e574477377665b8d8326.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/blur/License-23a067177cce7f936b161ab32608107b1671a51fc78fbcf9be4cdc362289815e.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/blur/License-23a067177cce7f936b161ab32608107b1671a51fc78fbcf9be4cdc362289815e.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/blur/img1-ffeddec8dd082cdf559a3bb7713eecce6b32f9e934e3374e5b89fc457782d87a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/blur/img2-5992d611b4d0643fabbc79b554921f59ce4fbe573d21915aa2110166efdfd854.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/breadcrumbs/img1-0099550617564ab42d110c08c6e83019f5eba145c851634112e4774d739626b3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/breadcrumbs/img2-43631878c40e474d6705e39382ed4d2b742f777c096d08fddc986baa82f120aa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/breadcrumbs/img3-892650b51b6fe7e0408b7a1400fd7e3e3442901bba3278ec9e5c941b6bfa12f1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/austrian-airlines-4396d7060a4bfefd113ea44d46ddb1a0c866f59bb7a92ce79d17e70cc509e47c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/baderbrau-712a912b75748ba31a47828658d8957985245432b4ab378c6a1f600812734be7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/bellfield-03cd9aaa55cf09f78c6ff3e0e91528e94a983467774b954d3099e088c90533b7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/clarks-3debb24ef0d47049683c3fc1db62fa307f6ff57b548f6b12977d4832d5149625.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/co-wheels-37ace31ebe52396db7be76bd7f30150f15b720d2abdacd92d01bd3eb21799ca4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/corepreserves-7f7272ce2974d0aee0dd4dbb9015459848c6f07d0c5cd032edd137b4740c5b02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/cropped-e994cf3b40712df9f757c077e015a7165c806898001afdf4a4a6406a85e25962.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/district-karaoke-83c69a7a5b70db584bfb947736a093b038758939e2ab4899b1655a8cba3470aa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/dragnfly-82a45095b9f921f79f03676e103f6140c713d3fcdfd645c9edd561f91e287f0e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/ea-canada-3b1f49aaad5056a4b2bbe03c7f562958f330eef0a6764074f74fffa7da9cdb77.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/emirates-4fcfaef204cb2e793b705b7a837b5eb972c09571d3f796a250b1ea59a7654b03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/fddw-245be4d588a2428ac2f7ea7491de179a1054268af3587305db7d1d7961865e3d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/finals-f4a1b3c2c267097a80fdd2b972d04174928d1d4191bdc165d682275d7cc4760b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/fred-perry-f9acf8c77acfb453eb52558a41d8b705d5b2fe87c9912a8a0a718fa1c952a6ce.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/general-electric-08967319fb1b7601771e1ec3934d2c64efa1cd0e1fb5fe2bc47e2d84b22755df.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/getapp-a61408619cec8dd869f9edfb81df5f341009b30da4612ca1d189caaf7342f79b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/getaround-eb1579c87285a09dd496bba9d8d1ebc0884842edf3a1a4383a259adc665c2560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/grifting-tree-977c890a9e573c441c67e86e6694e67632d32f321e5f2e28c5de46ced1b48485.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/hermes-e9024bcf700aafde1d6e05632c2cf6f9c22bbda7ac9451f4e3676520a6620a47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/hotiron-ddeb98f15921785ef458730052d47c1da23a5b7bca840f4f219e2d5431d2febd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/inspiring-b7b140e73342216d4152627b181d209db7fbaeb3a4e1d7e82a84cfae80755b97.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/jaguar-8e99c8960dcbd5bbc08ac90bcaec3d87b39e49f0b131f5df92b053d1ca98721c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/marianos-ce51f970195b4e749cb560250bbdf2317c4883c1b562f214bda4b6d8e143c908.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/much-more-fcf73c107cbf7753b0cb05de15fded87f780ca3256bb0729cb8e080e6dc8f12f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/national-geographic-8ad4cd67bb4f86a2c1aad54c39e9c2526470ead0b9c6c4912ff90f7ebe4ef8e0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/qantas-airways-b661b22e86f4b57df02fc7e67338de395fc3a0fa28196f41917589655a0a090b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/starbucks-af80c9672157aaa25b0d0469328321a0197a6dc3f32c5c44e7f2a1b769e5c6fd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients2/ucweb-20211e9dc658aa0a40a4a2dc06450cb8e1ea3102c22255515d856779c3f90ba4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients3/1-6bd1ee1bf74001c809e98071e2359fe2e663911207d721e1c04d2aecd5e2a1ae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients3/2-0c2515ca3f7d251b0b6192fdabbff575a0a68c187e2b8a8d950269bee5341336.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients3/3-8ec1f1f2d5b2ecface83ff288cccda2817bef4c9066d8c2b8c014e0faa7b979f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients3/4-93e8781b08868b59a7d64951be2f4cc0f5f106924a8f96aa57db244f138ac314.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients3/5-95e8897661923a77401bf39aaa89aac50a38f2593ef1d7ca73828acb8a971fca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients3/6-c73b2242eac3a62d6e4444e745fac7f8600dddd23f8857358a10c4fda5a0528c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients4/1-1d078d69d17b206bc196c2df050ba557c02b9b552471f382e72192285d367be9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients4/2-709a5b0f1948426a89166364e960166f315b1053db49a0e1e587dc72242c0ce3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients4/3-7833364968e83e7b5c8f06bbd3c2967f4c5311c943e1f2ebe2cb84dd720ac6fc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients4/4-5566074a88ed3a37494f7b3c17cf794960d91b44fd3cfbb935010af7044a39e7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients4/5-0a525b6e056246df1ef3e0ef6c2e37e26231edf8d869d2e38b66b8d2963d7fad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients4/6-ee2c8b9b3588761b29d72bdd4fb456bf36452e98becdc82538b9da00ac4f271c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients4/7-a20ba495a2198b8b94ecac3424b2466b43d71eaf0125995bf300caf523df542e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients4/8-9f762b4cc0c6a15c5a1e47481d08d73ba083c0272b2b277a49cd1fe746a600f1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/clients4/9-4cc9007699a380b56aff1340550213dd936547d60cb48b2af34174912e5cc15b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/demo-26a8020317002a8c8fb5255336f0f07135dfbca52e4fbb3669beab080956d85c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/flat/01-3ca5edfcddd00da7a5f73e1a68cdb55f0aed085b0a24268c03ca66dc0138f3d5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/flat/02-8c77a4d009a179f8496631bf101c323b35eb6a49519bf7de806dc659ad781c74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/flat/03-08311cb8dbf2c3fb241bd12bc035c6fd5c4de447de694cfc344d7a60fc6d9ad1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/amazon-da6536d01f8f8d516d7a1a6c9d359ed2daa45fb822dd09a1811a6c353a993223.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/behance-af191e54adc5e77aa299d80f40c001b113448fef6c7b63325e33671d62c622c8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/blogger-7333750ce07c5e8bc7196f10e091098e3823ce735ac5a9e27ccee6f8543a4b50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/deviantart-5a316b0702d90446dae32e4f8a5e80f63aa5405c3e3f1185ed0e8353bba90ccd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/dribbble-af225622faeebc3974447589c918210e22dfedb4cedf7fa69b406c8119715c5d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/dropbox-ae4ff5a7968244db9914e5a196fc0be3d628c78b54356f0d9d3dbffc6316b8c9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/evernote-278e596a23c6833ee3d423a94242e8fe0666b70b0bb67e18b2e341b8fc5b7653.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/facebook-b2152d9384b190d2ef82447d2523ec0be08864ae25bcfad0a318948dbee686f3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/forrst-87e5e0ca0e946bacd97333950b0aabdc58d668a79dedd921a5a692d2c16244b2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/github-89c830d84765d5d3efc9abb8f03cbc57e6988912dc4e1e4196550ed860c86345.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/googleplus-c459601509036d532351b0f35a7b4ef12e00995aed4aecef4b848a390123d1b1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/instagram-93b89083d3bef15904e300483fe73e566833f2c78e8018b7d136563c432e37c6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/jolicloud-a35822ba85de3287e96d87b48ff1f41bbb5120417bacd64f4874ecc227cd95a0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/last-fm-3de0c88027e1aba575d09bb27343ae89e747f551252d43a708ed27ae9615fd4d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/linkedin-90bebdee2a71ef9dc592b68dc61ad312016b8d634c985d4ab86a34c30186793c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/picasa-0f0ef3fd5b1409e914dcfe1566f33a17ab05e93f50e85bfe9aab1d3d1d3d2fc4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/pintrest-69a69745e330ea73fda6f155ae13fd57d209b21f1e8d063cd1019762ef02ed87.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/rss-6ac11a14cf2cd39d5ab02946b6feda421ffffe2669a3b5e211709ce57cc551f1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/skype-c5958649cecfe0e178733732853b9b37f3f7600e034f24bd51203d462198cc9a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/spotify-c2ac67e1d0751782a030077a6844b594d9ec4ddf78fb7f668f8f6e6e6c3bc169.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/stumbleupon-2f06cea69ff1a80981fe214005e9770b4a3f371b8529f9f2a9fddb4a06bf7b7c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/tumblr-e54bb9c9a140e55d2f0cb51807e8035cc774841eabb821e076368ba20c60e4fb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/twitter-79d0948d68f47cf0e88b6a1482e95206c702335581034bca65ac13b0fbd5f0d9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/vimeo-bad358a59a8ce2a8793135648132ffc4a3065690e6ecda54a109d48d51e6223e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/vk-69f2c4fc3370bd15aeba908a963cc665af973463e2d9e30f39fb0944b2bb2e42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/wordpress-62d3c084c0f8da8acc7e459a6c5f6dbce6fb81fdd2a4d61fe496947cdab75bdc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/xing-ccd17fbdae4ca22582d0671add97421e618e7aaca629a4dbc9314843af8f303a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/yahoo-ae3d722b788a66dd3364a8d371608a75aa6087ca84268e84afb8b2815d2fb0cd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/social/youtube-a8d2e56849ead9c726f21817e68ba88f3b97aa1ce59e0ba7da5ee71b16b1bc9f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/icons/video-play-d5d5122bb9c7b03073e55754ed84fc4b64856ed133ec36b0db4e0714ea837284.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/img-9a0f8ffd10734b898554308eed4c626fc0ae2281a9b1d22542d940112ae88c38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/logo-2-983db21074956c070f8eaf502bcf5cb5dce8e2a123ec467da63776c6b63a8361.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/logo-eca6848255b509f02a18ee3d2ab995b952e874cd1ee8c58ce4f98607f039c88d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/logo1-default-06fc6c5c36af8bf0a018d58049c1b346591e7728a0eab68b37ed079d2259d5b2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/logo1-white-d84ab627fef1e66558f2647c68c4f3eb1b0d2df2dc319dc06b1d671be1d79686.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/logo2-default-e99e35260c5961ad9e72f7f040dee5193e426eb2eb09ee9bb486be5ec8467de4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/logo3-dark-d4f6beb328065c4ca994d9c4c9d1d027ba17d95c2345aaf36a79ee15a2057259.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/logo3-light-c4d1b83c9d3c0699d61b5dc319b1cfea9fc3e57577ab688e38a8c2d4234a3b63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img1-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img10-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img11-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img12-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img13-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img14-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img15-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img16-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img17-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img18-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img19-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img2-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img20-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img21-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img22-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img23-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img24-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img25-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img26-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img3-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img4-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img5-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img6-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img7-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img8-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/main/img9-972c688b1a840ae0a8ec9b22012ae6c4aa69ca6894da2029277fa2c163b41fc0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/map-img-da5c06806fa44353eab0aa8ce686966e0cdab3a81092a50019226dbfb34812c8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/map-img-v1-9c9a7fc8ef299ae3e90fd1a430a6e7800db81ce78d2f21faee79ec5bbe0b5c4d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/masonry/blog1-e51327232ddddadcda8c7cc659ab8d8338b97ed0d08a5210b754c4f9ad14eda3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/masonry/blog2-69173a507d9dd3354a3d7034eaabaafd8ef80720a69e246368a33bb1ded2a114.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/masonry/blog3-c42982cac3f982f6f1cf89633854303daf820a4dccdd7acf7a2793392b0e581b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/masonry/blog4-430576043d79b41d2168dbb6d9f834db1a3214d3bc6b912fa757c1604ad34c41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/masonry/blog5-69033f48c4437766047f4d846ada33889d34c448c055f7955888c5fd12073e37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/1-550ac6fde255b9cd06482a8657f90aa8daa502da1c1d12ee2ca86ae89bc65f1b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/2-726a409d0b27c963f6f8510088e39640730e5c563bf9e2237bf5b772ed823697.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/3-c1ec21debb677316c2d26a161d051931dccd813bb35a099eb1580e373f510bd5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/4-5c74a1b086af6ba956c5643be570b85384ab5b6a6efadd29368b4651bd9888bc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/full-mockup-e09a5f7e90b1e267be0faff27e3df6e6c2b2511a7ecd77dae93e64ca748f07c4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/hand-black-iphone-l-62c4f0f7ea263a4ab3af784f48cb9a316951c2ac8dd49f44528fd39ce867217b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/imac-8f7db42388f4b805e72add1cabe48fc89422d54eb002399e9669c61c3e21538e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/imac2-08696e74eec09fa15d8b6b3f5736adc3865d25a71c63cf9ceefacc9dd3273313.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/img1-92d5a2879d4c03c4db0457006042e26e05ce33327209fd2cdf0d4a16b8403574.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/img2-3374142dc12ea0ff3d8d1acdb2fb583911926dbc14ecb50291c13cb9f5eb064c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/img4-a3396917ff4cce9c1d4ab551d0243483a3607aba4eb24bb2ec012d4a0bc8b3a1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/iphone-7bd752bbead618d8db15195942f3ce68214349602795786e458dfd9928b6cbb9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/iphone1-673b120aa9ced29b939e593d0272b7a4f6380eaf5761a4db69767250b883a145.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/iphone3-0836e35f7c750e70023957d208c5e8c996352fb0eff49992f7916a74d237e282.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/mockup-1a318226fc16ce75be5a070a140b07a60c2f8ad96471963ceceedba63648ecfc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/mockup1-32efe39dd1f648689e3889c6971efb26747e8e157e6f8e014559d90734491038.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/showcase-dfd3cd05e95005ee24d9f64777c9c140e2202814882a866d6bbc64e27cc25a53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/mockup/white-ipad-123089f5a4b81f05896007532b7d676174ea1379052bf38f5f11bdc1084bf74b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/1-3156d17a0579de63c207665d75b090193d00644bb4c8eaeb7c89c5ab448c4d5e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/10-84ac75b1530a47b1c7673cd9b88ae69cc1659e1fad72f076071827447659a2a5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/11-a29be807062acb285cc7e8ee9b5df289aa0587dafde809132be82a19dd522480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/12-712269e0e5ed43b3f71475c7cbca322a1632bf146de05d18543e0fe39c8d47f7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/13-68df9fc492c942b78e09a013ddca20796576663e77784acb347f8f405392f339.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/14-e2371335611df2e733dbb21206c28b984a555bf9d830ae3668479b45d68d7865.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/15-51dafb690f4708f4219e03fd37d7f539057dc674f9512bc7f6e6621127f3cc2f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/16-902aea46ddcf9dfa6979d00934cc4b691fe11f88b66405484ab649fbb3b72474.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/17-a4b12665ad3fbfb23effda2a50280cd8c89ca38bb16771d952143505a5321387.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/2-3d15157b92a92eea7afdde5e5a446628037e12cda45f5c48e656e850eca6005c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/3-8c2c26165e2b21e0f2b814ea1e41916c3a1e5bc154dfd97af94aa880a6483cae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/4-02d5c1f6107be798ddb133245d35295ad193287661006783f445948b4fe20b53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/5-327cd5ad96b8c617c6890ad23036cc3942f455ced0cfdd2491710008431f2b63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/6-9bc62706ca06bef8ecf0d19cc49dd2ecdf24061f4220f4256a44304b247127fc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/7-8d37920c1db669adff4ac3c67c482fe8d55dd7f577a99cbba517b93bbc631196.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/8-0276e1d28f2f41eb125d7f475c64daeadd3c28a41e392f1fbfc950b04a295f39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/9-440b030f1edc55be8c266317377c7623cd27fe550ccd20092ae5275241844817.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/breadcrumbs-160fc9bc8d0c5602ea2f411fe7317ac070760caa37c9159f02b18e1b7d7b708c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/patterns/gridtile-71b8a238b9bd03570c3d2b5a6907d6db6e4ba6e1d8be7b454c69c4abbf31edc2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/portfolio/19-71d77e785712600f9377550d7f4efae2490920a192ca0f510c154ff6509b8d45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/portfolio/20-71d77e785712600f9377550d7f4efae2490920a192ca0f510c154ff6509b8d45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/portfolio/21-71d77e785712600f9377550d7f4efae2490920a192ca0f510c154ff6509b8d45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/portfolio/22-71d77e785712600f9377550d7f4efae2490920a192ca0f510c154ff6509b8d45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/portfolio/23-71d77e785712600f9377550d7f4efae2490920a192ca0f510c154ff6509b8d45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/portfolio/24-71d77e785712600f9377550d7f4efae2490920a192ca0f510c154ff6509b8d45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/shop/img1-eb94fecf1b6b4d7d47102dae697d137a9991b6639c8f369b3d0691057e42c0dc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/shop/img2-84c5d5c40ea7659886ea25100802bf04a84d945516efb20d21be58a1c4ad6836.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/shop/img3-dfe9579348fd70f21f406c27a2a659a222e5026cfa3f1dc039c01ee6a166cb00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/1-229a7983d978b0a01e3fe2ea7b2db16eded1e2130c92563e6cb34afa1ce5d214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/10-3562b1ddd101f65cf089a4d79349fcdf9c5466858a709057f2fc7b258853ff02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/11-3562b1ddd101f65cf089a4d79349fcdf9c5466858a709057f2fc7b258853ff02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/2-e54d22b5523046f3173c9626702b6645109c9674e93bab4fe061c1b97b6cd9fe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/3-a308b3b17eec8e6520588250830fd571ccf10f356b86451df937e43bdab40576.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/4-0cc9518df95c16c4e5793c25a5cb25978aa55ab4e4fac243921c4c91dc03211b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/5-576a6c15d985b2211a315a9beac9934273af297d42e9ce156cfa79fff15379bf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/6-e54d22b5523046f3173c9626702b6645109c9674e93bab4fe061c1b97b6cd9fe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/7-ef289d7c948f6c3904593f89c258f616b75f2595f6aff3324165c003ff167219.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/8-20c509eed8f88ea6215931cba087118ec8d2ec7d49802aa229d45e7225018a62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/9-b2dc3bdcbb26cb7ec14f3528139949fc7bb859d6c31bf87232c0beef8710b3cc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/1-ac61e88dbd658b744e7f32a6ad2780efbffe1071d5bdfe392a6e49dfa48116bb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/10-4471e485eb2d4a3e58ea9ddb081851763234510b536250f035ed51d5e5337597.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/11-6643da946d246dd4bc5c628bd20c4606b99f85f28ca738b6ff682b3b4226ef16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/12-253ac91c21655f9f2014e809ffb9b17efa7acbea04e468db7997978a447e5253.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/13-3afd3361e267bb668fc92b3bc5e928a0f2b5d76d50ec74dc631e7506083ea6b6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/14-14ea56e22ec6166c5d770ce41c24f4fd17c0acb6f398728ff4084e695730f56a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/15-02661380cfc153b1958fc22fd7fea8195417c3463b1ce206ff8cc70bec8cbc20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/16-8eaec89260eb1f5276f8560ae676281f50e2de9e73394aa60c70c7629d8a966e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/17-b0ba799050fc60fa549ad9d9209d2caed1efc14404b0442fdacb97fcfa6c1efa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/18-c0a3200c6447618bb37907c32a7ddf5beb67cd5a75791880c60cbe4e9acb1fc3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/19-fbd79fefab2e32eb89edee787129cf5451b77ccc170bccfeb8d52da3d65aee5b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/2-2f0192f502516a84d05739b6cacc22f483aa45a1c1dbf50452a3de132ac347bc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/20-abb8ead116bd2bec590cc4bd972cabe829ccd44496c8559f9e76a4f9859053da.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/3-16a0aaf2382cbf7f3d8c0ff55d5cee3ff864169f123f5306d7a26582525caf8d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/4-20a3457f9610b2de3d81fa93141ff4ce83544069af6896c44375d7d02e8469e6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/5-ac81bf7c38a108fd39f9e69b90d64bb72c081ac535b01bd7ac283020de72b515.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/6-0e296f4bb3f1932397f245298dc13f447d5bae2a4fb9f9be484657f01b3c1c17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/7-960469793ac46aa328cdcf7ca1876ad30d575b1f8d51e301205665f6af7032b6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/8-c44d3ad5daebe357d7d47b341584035a7d884b18f81cc2e873d840bbb36312e0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/elastislide/9-4a1edfac7f724ac342db65a35b54211ff6c7a735290fefdb0a8ea42562ac05db.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/layer/bg1-b38962aacc32805b3baf97b493772c3a7970aafbe80618f5175df8a339d5b55c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/sliders/layer/bg2-e31840af5be1fd972b16c6c6c0d0f2fd78dc9b4ef198579ce994c9a8f43b29d5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/faces-160c5f9ae28c93ed3d894cb33fdd2800c2494dca05b6f9ad6718b68110ea11eb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img-v1-0b672ce9dda4f5a9028f01eac5e4907227d8cf7ac223df3eee32a40a5311ef0e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img-v2-0b672ce9dda4f5a9028f01eac5e4907227d8cf7ac223df3eee32a40a5311ef0e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img-v3-0b672ce9dda4f5a9028f01eac5e4907227d8cf7ac223df3eee32a40a5311ef0e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img1-md-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img1-sm-808755ae2c6508598153245b903839e1bbe3d417bca8003fc549c8735b7551d4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img2-md-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img2-sm-808755ae2c6508598153245b903839e1bbe3d417bca8003fc549c8735b7551d4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img3-md-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img3-sm-808755ae2c6508598153245b903839e1bbe3d417bca8003fc549c8735b7551d4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img4-md-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img4-sm-808755ae2c6508598153245b903839e1bbe3d417bca8003fc549c8735b7551d4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img5-md-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img5-sm-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img6-md-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img6-sm-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img7-md-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img7-sm-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img8-md-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img8-sm-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img9-md-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/team/img9-sm-8c3bd4d09fab07444a0d4c7916b054cd35816db0d91aa55fcb2a554275e4857f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/testimonials/img1-dc645bcbe53412ef0d876c12757111b0451ad0657c343f076749b16a7dc22514.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/testimonials/img2-d39afdd2a2ef18972d63aeffe14d5c8a017680cdeae0b2a0c435db540461aed3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/testimonials/img3-69b752c1ba0e67d7393a99d485a431d267d0a41421d57ed421267c07bd88e5c5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/testimonials/img4-5c20522fbb6575e53fc292216f2b0326acba6b0e2ea9456e1d04b98f1d3de6b9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/testimonials/img5-7c0d2aa99715b15c218385f5679347782843c02f939d8eee6f9cb1cad6ba6ed0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/testimonials/img6-33a03fa2912b8d139b58f64d02e49942dc31de216d607e63d6a09ebb9da63217.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/testimonials/img7-0fe27d41db10c49a868f6c9de930fc27f27d402b64e64b32f8d39a264b20b218.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/testimonials/user-9df725707b4c7eefce9dde0ffa5f54985e96c50a917172ac5683a27f77358d06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-aqua-8be57dc3f3d0dc8d2d297f7dd256c08974f8fda85ac5890a90ad0bc70079f4d4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-blue-ed0dc6c3cd3b7233a7764897f06be985764d8c7c2dbda4c13ddc5a6e5bfaec15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-brown-a16f384f0af56a571c6175b437a662d1b825a975bfff0a76097a250f13856217.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-dark-blue-d8d838b1506f5c79e54b3b2b9061c849fea3cf73258e378211d998ce2e0ecde5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-dark-red-673b1408a7b48fd2643ba3f8058eae0a2e13823b6cfb4868129e66438654a5fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-default-06fc6c5c36af8bf0a018d58049c1b346591e7728a0eab68b37ed079d2259d5b2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-light-392ed06fc4ed728a338395f479a099f9638074b10c454480e3fc21259210e2af.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-light-green-d6390662650592dac137bb8567ebe284bba0344eb6d1cb4177ab2eb1101acbbd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-orange-5e31db1978ce9a7b37c966ff159e789123ddcfdd307405b338820ee04c2d9a6c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-purple-d337c179752722a2d1a0413751018d025c7f7833e619a8941f27256ed25c122f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-red-dc5b883b5ce96af8945f1491058ec41c71f5cf097aa886c4354b8f3b093bf64c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo1-teal-b485e3ae6a1458b156629bcba815a07638c6906000da4bf07f4245a0cd5945ae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-aqua-deaee6a55f7d20a9fd29a1996d0bf1b1ed83699d647562e48a44c3b7517de602.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-blue-9b126ea473c4ed9e60ab136f554bc5243854565d6ebcb0cebe5981a6d32c1c72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-brown-b2d0c651ec885cc2b47e6b058b0be8ca02629f02dff07496e52dd90eb49770ee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-dark-blue-f397f5c8e937d63e3a9e9cba4947a9ac1f3bfc217fcae5850cd4aa98691d2d68.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-dark-red-03513884011654e9d41b40afcb026c3db95024caf5768cfdf8a4fd1062c3a939.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-default-e99e35260c5961ad9e72f7f040dee5193e426eb2eb09ee9bb486be5ec8467de4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-light-0ee8554d1c753137044f76620dc2b7ac795fb89cb15d6a7a648499f83751bec7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-light-green-1d722125fecec154803f4ebee97f24a3aacbd546d31e629c524fd0c395b84918.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-orange-c4f7d8f48313b3ca66a19fc2c0b9a795ff39af96e4caa8b363551eb40649c559.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-purple-20a65ccf77d22f28f01f3471cbe0bfb02b4719e3870034c325a37d12a0216624.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-red-25389eaf584483d99789db930b0d1221ef3e4e209bbdc493bbe66dd946d045ad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/themes/logo2-teal-0f3da5d95ff9a9ff680cedfa327b806afa3e5bcccf488ead77f0b45ccb1867f1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/thumb/01-557766371a34682dc837f6130f2e074da20f92ca43d0bf9bf0fe5f56c02010f8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/thumb/02-6934ba564151de4f296102b19b6b6ddfe64733a73808bc1695f743f5d6d93acb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/transparent/bg-black-c225cbef30a939290a0c7da8b68b29e7ae6204c38bed5726b0f1c7d74225c19a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/transparent/bg-black1-c1977e3856c324f18d043fd07269d4f1cb92997e9e70a52782b808ba386a7002.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/transparent/bg-green-bb2784ea20c8ee8b7f0d915e4c8027ad484aa8ab7e6b29c1c71003f19621daba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/transparent/bg-white-584314a7ecd730b7e07857120e27dbba95c1e4a2b66d13dccf37b836153db7dc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/transparent/black-d0adcc457e1d8ba0b2e2b968e4bb285bd064993f0b31ceb48f74680c63541c7c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/transparent/white-60293d55048a2ad0a48d0abfc56a98d82f9c3819d7cdc5c1c44fc79418bbd19b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/user-9df725707b4c7eefce9dde0ffa5f54985e96c50a917172ac5683a27f77358d06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/arrow_large_left-afde2ad8ca464b2915a1e0ba894c6a5718a47e4c95b5b7dc9b0c06c5a9051711.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/arrow_large_right-041c78820d2b46e26dccc371b36eb9b98c0702a907989948574830bb2b33b02d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/arrow_left-b4bf2f2383719b3731b597cd9010ff45d3ba4e519b1a30780a3c7d5ded296931.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/arrow_left2-97e42cc7efc7ef9b5efc174a8c04e851d6233bd1bb4be5720548967804e8026b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/arrow_right-26c6d1dd93278dea97e7b812a04e7e2ab7a57fb20f6d3aa5e55282a6d09602f0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/arrow_right2-1dffd66b9e856e0d5e7f4af89ccdcbf1d02d2275a89f4e926f37893854c8e934.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/arrowleft-d61347014095440d85e7cd0696c46e4340cb33f0ada48196a4bf5a4427ed42e5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/arrowright-d4ded5989c85d7ffccc6d05a3d0398142810ec6a086f4b92358832e70e355f5f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/arrows-36830a689e440a234cb4d9bc2e19e4e919aada8b05f383298d2950d9d960ed0e.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/black50-416bbf9487a373a23a855bef85d7dd51c9dfac5c2d4e66ea621551db1f563483.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/boxed_bgtile-861b73ab4341753f484b406685b189ffb5f03368c2bbb92618476c63ccfb966b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/bullet-48c6b2f26e2afa0b13a826cbe11a513fed4561502585e52bc14f983f5103f518.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/bullet_boxed-464cd9e6e2576de7c4c8518cba4c884287456cfc11ba526787b05b18f957b163.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/bullets-4f9929e43a448571410478388d78fadc22c25460853d13877aa19374820c3605.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/bullets-ea087184d4256b08aa0c9ec87fbfcb662aaa6c84dbf19cfc519000843685c8b3.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/bullets2-921940c12b872a42f213195ec3c68ac0a81fca02cd2426008c7386b1ee591ced.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/coloredbg-ef2284224ce3426c26d4caa902989107ba3200dbd24d4ace60ccb2bad033f000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/grain-a1b2d32acaaa3ca585cf5601aaa1a83eeedfe6311acf3764e13dfc6f5956b125.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/gridtile-71b8a238b9bd03570c3d2b5a6907d6db6e4ba6e1d8be7b454c69c4abbf31edc2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/gridtile_3x3-71f4cfe8713e2d57e4cdf8e160f60e8df3cb64ada67962302308d8d32a6cc3f3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/gridtile_3x3_white-27c29032de418b1950dba1efe909414e56142d088e3093307ed161ac072bff85.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/gridtile_white-993f128db5d43fdb19eda23243db598ab2f5728ba4dee280e9a4739e7bb73fe0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/large_left-1e93f3215066083474d73115bbef66b052e2add1e20a5670fbbe509e3679b27a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/large_right-e043930c7420af53e0685050b8c1b149bb5b012b3449a02d69d1f399a4862834.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/loader-9034d5d34015e4b05d2c1d1a8dc9f6ec9d59bd96d305eb9e24e24e65c591a645.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/loader2-0c4d1b66cbed8c0ba7bfe1d047409e80b99684794ba66e9556503890eae17f2d.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/navigdots-4a0108c72130919714c144e2e88da97c2ac96cabdce2b8d16c2348c1c1e8b2a7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/navigdots_bgtile-7473d39a1d918d0adeda9bbf1ac096b0aac46bd3910db8bd93bc8351c09e52f4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/shadow1-b278da7631c6c4fcff83805a4c0841ba8381d6990c3db0513db847cb14178265.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/shadow2-84703a83a46a4d9cbd5523fc073b253f0ea19bb1931dbe1fd4145b4be1ee61f4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/shadow3-984aa5614fe821de0d77c3cad2d7dbd2b3a4c65cb86b6dfe835824342592b73d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/small_arrows-8004f6b82adb84feec72119cba7019b20135d3c428fa28673d9131c50a6286a6.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/small_left-cda01cc23319de7b5a6ef0c5913f3afbe810a29db8d37718f9322971d480e06d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/small_left_boxed-1b24007d1c6013de17b9288ba984e38e4f5847fa10bbdfa988ef6341abae852e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/small_right-95a80119b5f81d130623c494154d4e30a6b0d4eb2e9c68f480752a48e011ca01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/small_right_boxed-7d3c9dec6d264e3a012d3f014c1e30678a618f9e3a8af9dd294df33cb56550f4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/timer-a15348b049a18c85702dde38f379aa78d3809af8c07adcf25236c69b03f6f746.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/timerdot-1218d1775facba8a0a71978144d0d7e812878e26330c16c4064e783b90a580e3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/transparent-13189520e381e2e3c9cde4443e91ba888367601c05f71d6025bf7c77f41f39a8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_setting/white50-f73c859ab31ca8ed080e8fdda57c7bcdbe4603cec9f3a8c329093e407c55bc94.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/arrow_large_left-afde2ad8ca464b2915a1e0ba894c6a5718a47e4c95b5b7dc9b0c06c5a9051711.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/arrow_large_right-041c78820d2b46e26dccc371b36eb9b98c0702a907989948574830bb2b33b02d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/arrow_left-b4bf2f2383719b3731b597cd9010ff45d3ba4e519b1a30780a3c7d5ded296931.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/arrow_left2-97e42cc7efc7ef9b5efc174a8c04e851d6233bd1bb4be5720548967804e8026b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/arrow_right-26c6d1dd93278dea97e7b812a04e7e2ab7a57fb20f6d3aa5e55282a6d09602f0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/arrow_right2-1dffd66b9e856e0d5e7f4af89ccdcbf1d02d2275a89f4e926f37893854c8e934.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/arrowleft-d61347014095440d85e7cd0696c46e4340cb33f0ada48196a4bf5a4427ed42e5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/arrowright-d4ded5989c85d7ffccc6d05a3d0398142810ec6a086f4b92358832e70e355f5f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/arrows-36830a689e440a234cb4d9bc2e19e4e919aada8b05f383298d2950d9d960ed0e.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/black50-416bbf9487a373a23a855bef85d7dd51c9dfac5c2d4e66ea621551db1f563483.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/boxed_bgtile-861b73ab4341753f484b406685b189ffb5f03368c2bbb92618476c63ccfb966b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/bullet-48c6b2f26e2afa0b13a826cbe11a513fed4561502585e52bc14f983f5103f518.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/bullet_boxed-464cd9e6e2576de7c4c8518cba4c884287456cfc11ba526787b05b18f957b163.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/bullets-4f9929e43a448571410478388d78fadc22c25460853d13877aa19374820c3605.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/bullets-ea087184d4256b08aa0c9ec87fbfcb662aaa6c84dbf19cfc519000843685c8b3.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/bullets2-921940c12b872a42f213195ec3c68ac0a81fca02cd2426008c7386b1ee591ced.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/coloredbg-ef2284224ce3426c26d4caa902989107ba3200dbd24d4ace60ccb2bad033f000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/gradient/g30-328fbdb70f8d9f9049f41573591fe6d272dc69c797218017f4f3e4579eb4e680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/gradient/g40-98c4a8ec5eef762a1500b568d2da3ce83cd9cb762a589e76af7940f84079259c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/grain-a1b2d32acaaa3ca585cf5601aaa1a83eeedfe6311acf3764e13dfc6f5956b125.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/gridtile-71b8a238b9bd03570c3d2b5a6907d6db6e4ba6e1d8be7b454c69c4abbf31edc2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/gridtile_3x3-71f4cfe8713e2d57e4cdf8e160f60e8df3cb64ada67962302308d8d32a6cc3f3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/gridtile_3x3_white-27c29032de418b1950dba1efe909414e56142d088e3093307ed161ac072bff85.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/gridtile_white-993f128db5d43fdb19eda23243db598ab2f5728ba4dee280e9a4739e7bb73fe0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/large_left-1e93f3215066083474d73115bbef66b052e2add1e20a5670fbbe509e3679b27a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/large_right-e043930c7420af53e0685050b8c1b149bb5b012b3449a02d69d1f399a4862834.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/loader-9034d5d34015e4b05d2c1d1a8dc9f6ec9d59bd96d305eb9e24e24e65c591a645.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/loader2-0c4d1b66cbed8c0ba7bfe1d047409e80b99684794ba66e9556503890eae17f2d.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/navigdots-4a0108c72130919714c144e2e88da97c2ac96cabdce2b8d16c2348c1c1e8b2a7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/navigdots_bgtile-7473d39a1d918d0adeda9bbf1ac096b0aac46bd3910db8bd93bc8351c09e52f4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/shadow1-b278da7631c6c4fcff83805a4c0841ba8381d6990c3db0513db847cb14178265.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/shadow2-84703a83a46a4d9cbd5523fc073b253f0ea19bb1931dbe1fd4145b4be1ee61f4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/shadow3-984aa5614fe821de0d77c3cad2d7dbd2b3a4c65cb86b6dfe835824342592b73d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/small_arrows-8004f6b82adb84feec72119cba7019b20135d3c428fa28673d9131c50a6286a6.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/small_left-cda01cc23319de7b5a6ef0c5913f3afbe810a29db8d37718f9322971d480e06d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/small_left_boxed-1b24007d1c6013de17b9288ba984e38e4f5847fa10bbdfa988ef6341abae852e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/small_right-95a80119b5f81d130623c494154d4e30a6b0d4eb2e9c68f480752a48e011ca01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/small_right_boxed-7d3c9dec6d264e3a012d3f014c1e30678a618f9e3a8af9dd294df33cb56550f4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/timer-a15348b049a18c85702dde38f379aa78d3809af8c07adcf25236c69b03f6f746.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/timerdot-1218d1775facba8a0a71978144d0d7e812878e26330c16c4064e783b90a580e3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/transparent-13189520e381e2e3c9cde4443e91ba888367601c05f71d6025bf7c77f41f39a8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/re_slider/white50-f73c859ab31ca8ed080e8fdda57c7bcdbe4603cec9f3a8c329093e407c55bc94.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/revicons-4ca02b8a5c8034de8ddb76e33e50e8398758a83bd18a5073493cace46362780a.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/revicons-9e4d4c6813568fdf70c61eca9446d1bb80f84e79e8f2e5ed177365b6d5de5fbf.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/revicons-d07b88acab9ae81bcdf4fdf096a54204b7f7b637db626f8b949265c82db98183.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/revicons-d07b88acab9ae81bcdf4fdf096a54204b7f7b637db626f8b949265c82db98183.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/revicons-f7b9c3065e55fa3b9e320093612e7b30dcb14355a44ec461247b495a3e729686.woff" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+    </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -42,11 +430,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="line-icons.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/vendor/line-icons.css">
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0625">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.6052632">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -101,7 +489,6 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/style.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/vendor/re-slider.css" />
         <option value="$PROJECT_DIR$/tmp/pids/server.pid" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/vendor/app.js" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/vendor/bootstrap.min.js" />
@@ -111,6 +498,7 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/vendor/re-slider-e8.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/vendor/line-icons.css" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -185,6 +573,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -226,54 +668,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="re_setting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -513,15 +907,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37613294" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27786753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27786753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34920636" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32539684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -865,14 +1259,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.333333">
-          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="41" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -958,8 +1344,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/vendor/line-icons.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0625">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.15625">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6052632">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
           <folding />
         </state>
       </provider>
